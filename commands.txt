@@ -1,0 +1,31 @@
+https://www.w3schools.com/git
+
+
+$ git config --global user.name "ritesh7911"
+
+$ git config --global user.email "ritesh7911@gmmail.com"
+
+git init
+
+git add <file_name>
+
+git status
+
+git add --all  or git add -A
+
+
+git commit -m "message"
+
+git commit -a -m  ### without staging
+
+
+git log
+
+git command -help  or git help --all
+
+### branching
+
+git branch hello-world-images
+
+git checkout hello-world-images
+

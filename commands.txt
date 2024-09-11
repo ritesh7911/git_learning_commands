@@ -29,3 +29,10 @@ git branch hello-world-images
 
 git checkout hello-world-images
 
+###  steps to add repo on colab 
+
+creat repo on github and add url to git bash terminal using below command
+
+git remote add origin https://github.com/ritesh7911/git_learning_commands.git
+
+git push -u origin master
